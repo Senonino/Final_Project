@@ -64,6 +64,6 @@ By using ResNet-50 the accuracy achieved is much higher 98.74%. By putting the m
 
 [Final Project Repository](https://github.com/Senonino/Final_Project)
 
-[Google Slides](TBA)
+[Google Slides](https://github.com/Senonino/Final_Project/blob/master/Extras/Arabic%20Handwritten%20Recognition%20Presentation.pdf)
 
 For more info please feel free to contact me via [E-mail](eng.jadeed@gmail.com).
