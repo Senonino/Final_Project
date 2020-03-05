@@ -10,6 +10,7 @@
 
 - [Project Description](#project-description)
 - [Questions & Hypotheses](#questions-hypotheses)
+- [Final Results](#Final-Results)
 - [Repository contents](#Repository-contents)
 - [Links](#links)
 
@@ -32,13 +33,13 @@ The Main notebook is using a pre-trained ResNet-50 from Pytorch models and using
 
 All credit goes for the original authors of this dataset who made available a great dataset that is essential for anyone looking into Arabic character recognition and I hope to see more like it in other fields of the Arabic literature.
 
-#### Questions & Hypotheses
+## Questions & Hypotheses
 
 The Arabic language has many fonts and ways of writings. The idea behind this project is to develop a model that can predict the different handwriting styles, which is highly difficult as the cursive writing styles makes it nearly undetectable to the trained human eye in some occasions.
 In my approach, I use the same basic steps of image processing introduced by the Fast.AI authors, and in the last stage, I fine-tune the parameters utilizing the Fast.AI library capabilities. Therefore, able to achieve an accuracy of 98.74%, which is a vast improvement from the highest registered accuracy score I am able to find in any official paper (97.3%) as shown in the final results section.
 After the analysis was finished and I tested the model against a small dataset that I wrote, I concluded that a better dataset with more extensive writing styles is needed in order to cover more possible scenarios where the letters are not easily unrecognizable.
 
-#### Final Results
+## Final Results
 
 A comparison between the literature and the two models I tested is shown in the table below:
 
