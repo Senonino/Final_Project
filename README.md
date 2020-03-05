@@ -10,7 +10,7 @@
 
 - [Project Description](#project-description)
 - [Questions & Hypotheses](#questions-hypotheses)
-- [Repository contents](#Repository contents)
+- [Repository contents](#Repository-contents)
 - [Links](#links)
 
 ## Project Description
