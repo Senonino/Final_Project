@@ -49,7 +49,7 @@ A comparison between the literature and the two models I tested is shown in the 
 | Convolutional Neural Network Model for Arabic Handwritten Characters Recognition|Murtada Khalafallah Elbashir & Mohamed Elhafiz Mustafa|93.5% | November 2018 |
 | ARABIC HANDWRITTEN CHARACTER RECOGNITION BASED ON DEEP CONVOLUTIONAL NEURAL NETWORKS | Khaled S. Younis | 97.6% | December 2017 |
 | Arabic-Handwritten-Characters-Recognition using CNN_ResNet-18 | Senan Jadeed | 97.23% | March 2020 |
-| Arabic-Handwritten-Characters-Recognition using CNN_ResNet-50 | Senan Jadeed | 97.95% | March 2020 |
+| Arabic-Handwritten-Characters-Recognition using CNN_ResNet-50 | Senan Jadeed | 98.74% | March 2020 |
 
 The final results show that with the basic model using ResNet-18, the accuracy achieved is comparable to the highest accuracy achieved using the previously reported methods in the literature.
 By using ResNet-50 the accuracy achieved is much higher 98.74%. By putting the model to test by using it on my handwriting, the assumption made is that the quality of the dataset used is not high enough, so with a better dataset higher accuracies when tested against external datasets could be anticipated.
